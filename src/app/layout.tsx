@@ -6,6 +6,7 @@ import { Footer } from "@/components/Footer";
 import { MobileStickyBar } from "@/components/MobileStickyBar";
 import { SeasonCountdown } from "@/components/SeasonCountdown";
 import { StructuredData } from "@/components/StructuredData";
+import { MetaPixel } from "@/components/MetaPixel";
 
 /* ── Type system ──
    Body: Inter — warm sans, reads professional at small sizes, not fintech-y.
@@ -116,6 +117,7 @@ export default function RootLayout({
         <Footer />
         <MobileStickyBar />
         <SeasonCountdown />
+        <MetaPixel />
       </body>
     </html>
   );
