@@ -284,7 +284,7 @@ export default function Home() {
                 {[
                   { label: `From $${PRICING.pontoon2Hour}`, sub: "Starting Rate" },
                   { label: "2-8 Hours", sub: "You Choose" },
-                  { label: "Up to 10", sub: "Guests" },
+                  { label: "10–12", sub: "Guests" },
                   { label: "Self-Guided", sub: "You Captain" },
                 ].map((stat) => (
                   <div key={stat.label} className="bg-white rounded-xl p-4 text-center shadow-sm">
