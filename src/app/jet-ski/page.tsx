@@ -367,7 +367,7 @@ export default function JetSkiPage() {
       <section className="py-12 bg-white border-t border-gray-border">
         <div className="max-w-4xl mx-auto px-4 text-center">
           <p className="text-gray-text text-sm">
-            Want a more relaxed experience? Check out our <Link href="/pontoon" className="text-blue-brand font-semibold hover:underline">self-guided pontoon boat rentals</Link> for up to 10 guests.
+            Want a more relaxed experience? Check out our <Link href="/pontoon" className="text-blue-brand font-semibold hover:underline">self-guided pontoon boat rentals</Link> for 10–12 guests.
             View our <Link href="/promotions" className="text-blue-brand font-semibold hover:underline">current deals — buy 3, get 4th free</Link>,
             or browse our <Link href="/gallery" className="text-blue-brand font-semibold hover:underline">adventure photo gallery</Link>.
             Have questions? Visit our <Link href="/faq" className="text-blue-brand font-semibold hover:underline">FAQ page</Link> or <Link href="/contact" className="text-blue-brand font-semibold hover:underline">contact us</Link>.

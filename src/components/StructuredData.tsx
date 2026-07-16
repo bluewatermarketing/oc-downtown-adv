@@ -92,7 +92,7 @@ const localBusinessSchema = {
       "@type": "Offer",
       name: "Pontoon Boat Rental - 2 Hour Self-Guided Cruise",
       description:
-        "Self-guided pontoon boat rental on Assateague Bay, Ocean City MD. Explore wild horse beaches, anchor at sandbars, BYOB friendly. Up to 10 guests.",
+        "Self-guided pontoon boat rental on Assateague Bay, Ocean City MD. Explore wild horse beaches, anchor at sandbars, BYOB friendly. 10–12 guests.",
       price: `${PRICING.pontoon2Hour}.00`,
       priceCurrency: "USD",
       url: BOOKING_URL,
@@ -104,7 +104,7 @@ const localBusinessSchema = {
       "@type": "Offer",
       name: "Pontoon Boat Rental - 4 Hour Self-Guided Cruise",
       description:
-        "Most popular pontoon rental. 4 hours exploring Assateague Bay. See wild horses, swim at sandbars, cruise at sunset. Up to 10 guests, BYOB.",
+        "Most popular pontoon rental. 4 hours exploring Assateague Bay. See wild horses, swim at sandbars, cruise at sunset. 10–12 guests, BYOB.",
       price: `${PRICING.pontoon4Hour}.00`,
       priceCurrency: "USD",
       url: BOOKING_URL,
@@ -116,7 +116,7 @@ const localBusinessSchema = {
       "@type": "Offer",
       name: "Pontoon Boat Rental - 8 Hour Full Day",
       description:
-        "Full-day pontoon boat rental on Assateague Bay. 8 hours of exploring, fishing, swimming, and cruising. Up to 10 guests.",
+        "Full-day pontoon boat rental on Assateague Bay. 8 hours of exploring, fishing, swimming, and cruising. 10–12 guests.",
       price: `${PRICING.pontoon8Hour}.00`,
       priceCurrency: "USD",
       url: BOOKING_URL,

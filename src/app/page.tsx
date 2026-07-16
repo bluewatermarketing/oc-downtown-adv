@@ -278,7 +278,7 @@ export default function Home() {
                 Your Bay. Your Rules.
               </h2>
               <p className="text-gray-text text-lg leading-relaxed mb-6">
-                Captain your own pontoon boat through Assateague Bay. Explore wild horse beaches, cruise to sandbars, and enjoy a private adventure with up to 10 guests. From 2 to 8 hours — your schedule, your way.
+                Captain your own pontoon boat through Assateague Bay. Explore wild horse beaches, cruise to sandbars, and enjoy a private adventure with 10–12 guests. From 2 to 8 hours — your schedule, your way.
               </p>
               <div className="grid grid-cols-2 gap-4 mb-8">
                 {[

@@ -208,7 +208,7 @@ export default function AboutPage() {
                 <div className="absolute bottom-0 left-0 right-0 p-6 md:p-8">
                   <span className="inline-block px-2.5 py-1 bg-yellow-brand text-dark text-xs font-bold uppercase rounded mb-2">From $329</span>
                   <h3 className="text-2xl font-extrabold text-white mb-1">Pontoon Boat Rentals</h3>
-                  <p className="text-white/90 text-sm mb-4 drop-shadow-sm">Self-guided 2–8 hour bay cruises for up to 10 guests. BYOB, fishing, and more.</p>
+                  <p className="text-white/90 text-sm mb-4 drop-shadow-sm">Self-guided 2–8 hour bay cruises for 10–12 guests. BYOB, fishing, and more.</p>
                   <a href="/pontoon" className="inline-flex items-center gap-2 text-yellow-brand font-bold text-sm hover:gap-3 transition-all">
                     Learn More
                     <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" /></svg>
