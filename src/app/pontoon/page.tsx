@@ -41,7 +41,7 @@ export const metadata: Metadata = {
 const HIGHLIGHTS = [
   { value: `From $${PRICING.pontoon2Hour}`, sub: "Starting Price", icon: "M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" },
   { value: "2–8 Hours", sub: "Flexible Duration", icon: "M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" },
-  { value: "Up to 10", sub: "Guests Per Boat", icon: "M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z" },
+  { value: "10–12", sub: "Guests Per Boat", icon: "M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z" },
   { value: "Self-Guided", sub: "You're the Captain", icon: "M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7" },
 ];
 
@@ -79,7 +79,7 @@ const OCCASIONS = [
 
 const faqs = [
   { q: "How old do you have to be to drive?", a: "The driver must be at least 21 years old with a valid driver's license. No prior boating experience is needed — we'll give you a full orientation before you depart." },
-  { q: "How many people can fit?", a: "Up to 10 people per pontoon boat. All ages are welcome, including kids!" },
+  { q: "How many people can fit?", a: "10–12 people per pontoon boat. All ages are welcome, including kids!" },
   { q: "Is it self-guided?", a: "Yes! Unlike our jet skis, pontoon boats are self-guided excursions. You're the captain — go where you want within the bay area." },
   { q: "Can we bring alcohol?", a: "Yes, alcohol is permitted on pontoon boats. However, the driver must remain completely sober — no drinking and driving on the water." },
   { q: "Are life vests required?", a: "Life vests are available but not required for adults. Children must wear life vests and stay with adults at all times." },
