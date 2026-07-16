@@ -201,7 +201,7 @@ export default function PontoonPage() {
                   Anchor along the shores of <strong>Assateague Island</strong> and watch the famous wild horses graze just feet from the water. Pull up to a sandbar and swim. Drop a fishing line over the side. Or simply cruise the bay with music playing and drinks in hand — it&apos;s your adventure, your way.
                 </p>
                 <p>
-                  With up to 10 people on board, pontoon rentals are perfect for family reunions, birthday celebrations, bachelor/bachelorette parties, or just a relaxing day on the water.
+                  With up to 10-12 people on board, pontoon rentals are perfect for family reunions, birthday celebrations, bachelor/bachelorette parties, or just a relaxing day on the water.
                 </p>
               </div>
             </ScrollReveal>
